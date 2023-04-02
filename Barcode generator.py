@@ -16,4 +16,4 @@ my_barcode.save("generated_barcode")
 from PIL import Image #to open the barcode and visualize
 Image.open('generated_barcode.png')
 
-#original source code: clcoding.com
+#code inspired by clcoding.com
