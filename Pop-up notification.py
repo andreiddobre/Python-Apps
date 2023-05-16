@@ -8,6 +8,6 @@ if __name__ == '__main__':
                         message = "Time to take a break!",
                         timeout = 10
                         )
-                time.sleep(10)
+                time.sleep(3600)
 
 #original code inspired by clcoding.com
