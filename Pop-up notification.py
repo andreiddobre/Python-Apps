@@ -1,6 +1,6 @@
 #pip install time
-import time
 
+import time
 from plyer import notification
 
 if __name__ == '__main__':
