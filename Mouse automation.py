@@ -1,3 +1,5 @@
+#pip install pyautogui
+
 import pyautogui
 print(pyautogui.size())
 
