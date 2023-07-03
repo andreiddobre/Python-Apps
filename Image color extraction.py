@@ -1,3 +1,5 @@
+#pip install PIL
+
 from PIL import Image
 Image.open('leaves.jpg')
 
